@@ -1,3 +1,5 @@
+The project with 2 examples of using custom hooks in React. Validator of form and counter.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
